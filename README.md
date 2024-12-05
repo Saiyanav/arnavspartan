@@ -4,7 +4,4 @@
 
 A student engineer pursuing his bachelors in technology.
 
-You know what truly matters in this world?
-Providing value to others.
-
-My goal is to ship software which will change people's lives.
+I build things, write code, invest in learning skills, and edit videos.
