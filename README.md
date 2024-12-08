@@ -4,4 +4,4 @@
 
 A student engineer pursuing his bachelors in technology.
 
-I build things, write code, invest in learning skills, and edit videos.
+I build things, write code, video edit, and invest in skills.
