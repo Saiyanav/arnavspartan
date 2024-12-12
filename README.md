@@ -4,4 +4,4 @@
 
 A student engineer pursuing his bachelors in technology.
 
-I build things, write code, video edit, and write on Twitter.
+I build things, video edit, and write on Twitter.
