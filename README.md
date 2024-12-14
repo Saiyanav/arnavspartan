@@ -1,7 +1,7 @@
 # Arnav Thakur  
 
-**`Digital Craftsman (Developer/Writer/Creator)`**
+**`Digital Craftsman`**
 
-– 2nd year computer-science student
+– 2nd-year computer science student
 
-– I code things and write on Twitter (https://x.com/arnavspartan)
+– I code things & write on Twitter (https://x.com/arnavspartan)
