@@ -4,4 +4,4 @@
 
 • 2nd year computer-science student.
 
-• I code things and write on Twitter.
+• I code things and write on Twitter https://x.com/arnavspartan.
