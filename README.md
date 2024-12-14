@@ -2,6 +2,6 @@
 
 **`Digital Craftsman (Developer/Writer/Creator)`**
 
-A student engineer pursuing his bachelors in technology.
+• 2nd year computer-science student.
 
-I build things, video edit, and write on Twitter.
+• I code things and write on Twitter.
