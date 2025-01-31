@@ -2,4 +2,6 @@
 
 **`Digital Craftsman`**
 
-I code & write on Twitter (https://x.com/saiynav)
+/ I bring ideas to life.
+/ Write on Twitter (https://x.com/saiynav)
+/ Do LeetCode
